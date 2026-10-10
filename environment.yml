@@ -1,4 +1,4 @@
-﻿name: tvsummary
+name: tvsummary
 channels:
   - defaults
 dependencies:
